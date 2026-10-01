@@ -95,4 +95,4 @@ mvn test
 - Java 17
 - Maven
 - JUnit Jupiter 5
-- SHA-256（稽核紀錄鏈）
+- SHA-256
